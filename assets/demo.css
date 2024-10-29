@@ -1,5 +1,5 @@
 body {
-    height: 100%;
+    height: device-height;
     width: 100%;
     border: 1px;
 }
