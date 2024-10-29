@@ -1,6 +1,7 @@
 body {
-    padding: 50px;
-    height: device-height;
-    /*width: 100%;*/
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
     border: 1px;
 }
