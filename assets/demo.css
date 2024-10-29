@@ -1,5 +1,11 @@
+<head>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&display=swap">
+<style>
 body {
+    font-family: "Bricolage Grotesque", serif;
     height: 100%;
     width: 100%;
     border: 1px;
 }
+</style>
+</head>
